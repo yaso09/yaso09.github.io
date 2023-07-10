@@ -5,4 +5,4 @@ Selam! Ben Yasir. Türk'üm Türkiye'denim 🇹🇷. Ürünlerimde kullandığı
 **Programlar** (İşaretler programın kararlı sürümünün çıktığını gösterir)
 
  - [x] [Bir Haftada Discord](https://birhaftadadiscord.blogspot.com/)
- - [ ] [Profiler](https://profiler.fun/)
+ - [ ] [Profiler](https://yaso09.github.io/profiler.fun/)
