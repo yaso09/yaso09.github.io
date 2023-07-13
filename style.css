@@ -1,0 +1,53 @@
+.bi-icon {
+    margin-bottom: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .textbox {
+    margin-top: 20px;
+    text-align: center;
+  }
+  #search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #promptInput {
+    margin-right: 10px;
+  }
+  #generateBtn {
+    background-color: #9e479e;
+    height: 36px;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  #stopBtn {
+    background-color: #9e479e;
+    height: 36px;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  #reportBtn {
+    border-radius: 3px;
+    font-size: large;
+    color: white;
+    border: 0px solid;
+    background-color: #9e479e;
+    height: 35px;
+    width: 45%;
+  }
+  a {
+    color: #9e479e;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: center;
+    font-size: small;
+  }
